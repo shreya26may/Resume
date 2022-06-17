@@ -1,0 +1,239 @@
+<script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
+<link rel="stylesheet" href="./styles.css">
+<div class="resume">
+   <div class="resume_left">
+     <div class="resume_profile">
+       <img src="https://lh3.googleusercontent.com/POIYqVFDs3LW1fOy7oZn9FCeg-dOSQrvfeX0GOVvUDKEraOVpj8aJpb6SO3x5l7yce1kb4u-6hGdNpI0QeE2gIvPZzjqlfhM5DksokD3Zm8q3zZ40G0TK2PFU2WSGqgGUB5Wt758pQs=w600-h315-p-k" alt="profile_pic">
+     </div>
+     <div class="resume_content">
+       <div class="resume_item resume_info">
+         <div class="title">
+           <p class="bold">SHREYA SENGUPTA</p>
+           <p class="regular">IT Graduate</p>
+         </div>
+         <ul>
+           <li>
+             <div class="icon">
+               <i class="fas fa-map-signs"></i>
+             </div>
+             <div class="data">
+               Kolkata <br /> India
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fas fa-mobile-alt"></i>
+             </div>
+             <div class="data">
+               +91 7765033473
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fas fa-envelope"></i>
+             </div>
+             <div class="data">
+               shreya26may@gmail.com
+             </div>
+           </li>
+           <li>
+             
+           </li>
+         </ul>
+       </div>
+       <div class="resume_item resume_skills">
+         <div class="title">
+           <p class="bold">Tech Stack</p>
+         </div>
+         <ul>
+           <li>
+             <div class="skill_name">
+               HTML
+             </div>
+             <div class="skill_progress">
+               <span style="width: 50%;"></span>
+             </div>
+             <div class="skill_per">50%</div>
+           </li>
+           <li>
+             <div class="skill_name">
+               CSS
+             </div>
+             <div class="skill_progress">
+               <span style="width: 50%;"></span>
+             </div>
+             <div class="skill_per">50%</div>
+           </li>
+           <li>
+             <div class="skill_name">
+               Python
+             </div>
+             <div class="skill_progress">
+               <span style="width: 70%;"></span>
+             </div>
+             <div class="skill_per">70%</div>
+           </li>
+           <li>
+             <div class="skill_name">
+               Robot-Frame &nbsp;
+             </div>
+             <div class="skill_progress">
+               <span style="width: 60%;"></span>
+             </div>
+             <div class="skill_per">60%</div>
+           </li>
+           <li>
+             <div class="skill_name">
+               SQL 
+             </div>
+             <div class="skill_progress">
+               <span style="width: 88%;"></span>
+             </div>
+             <div class="skill_per">88%</div>
+           </li>
+           <li>
+            <div class="skill_name">
+             Jira 
+            </div>
+            <div class="skill_progress">
+              <span style="width: 100%;"></span>
+            </div>
+            <div class="skill_per">100%</div>
+          </li>
+          <li>
+            <div class="skill_name">
+            Selenium &nbsp;
+            </div>
+            <div class="skill_progress">
+              <span style="width: 50%;"></span>
+            </div>
+            <div class="skill_per">50%</div>
+          </li>
+         </ul>
+       </div>
+       <div class="resume_item resume_social">
+         <div class="title">
+           <p class="bold">Social</p>
+         </div>
+         <ul>
+           <li>
+             <div class="icon">
+               <i class="fab fa-facebook-square"></i>
+             </div>
+             <div class="data">
+               <p class="semi-bold">Facebook</p>
+               <p>shreya26may</p>
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fab fa-instagram-square"></i>
+             </div>
+             <div class="data">
+               <p class="semi-bold">Instagram</p>
+               <p>_sengupta_</p>
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fab fa-github"></i>
+             </div>
+             <div class="data">
+               <p class="semi-bold">Github</p>
+               <p>shreya26may</p>
+             </div>
+           </li>
+           <li>
+             <div class="icon">
+               <i class="fab fa-linkedin"></i>
+             </div>
+             <div class="data">
+               <p class="semi-bold">Linkedin</p>
+               <p>shreya-sengupta-7b4568170</p>
+             </div>
+           </li>
+         </ul>
+       </div>
+     </div>
+  </div>
+  <div class="resume_right">
+    <div class="resume_item resume_about">
+        <div class="title">
+           <p class="bold">About</p>
+         </div>
+        <p>• Interested in Competitive Coding & Web Development.</p>
+        <p>• Good knowledge in Python Programming Language.</p>
+        <p>• Skilled in Machine Learning And Artificial Intelligence.</p>
+        <p>• Passionate about new technologies and solving real life problems through technology.</p> 
+          
+        <p>I am seeking a good career opportunity as a Data Scientist / Full Stack Developer to enhance my skills and knowledge and be a part of it</p>
+    </div>
+    <div class="resume_item resume_work">
+        <div class="title">
+           <p class="bold">Work Experience</p>
+         </div>
+        <ul>
+           <li>
+              <div class="date">2021 - Present</div>
+              <div class="info">
+                     <p class="semi-bold">Tata Consultancy Services</p> 
+                  <p>⦿ Experience in the area of Software Testing (Manual and Automation) with good understanding of Test Planning, Test Design, Test Execution, Defect Reporting and Tracking.</p>
+                  <br>
+                  <p>⦿ Experienced in Functional Testing and User Acceptance Testing in Elisa Account (Telecom Domain) as an Automation Tester using Selenium Web driver with Robot Framework. Also worked in API testing using Rest Assured BDD/POSTMAN and its corresponding Framework.</p>
+                  <br>
+                  <p>⦿ Experienced on Test Management Tool JIRA for project Management.</p>
+                  <br>
+                  <p>⦿ Well versed with Continuous Integration tool using Jenkins, build management tool using Maven and version control system using Git/GitHub.</p>
+                  <br>
+                  <p>⦿ Self-motivated, energetic and highly ethical in all work related assignments thus able to immediately contribute to corporate goals and objectives.</p>
+                  <br>
+                  <p>⦿ Good written, communication, interpersonal skill, proven team player with an analytical mind bent to problem solving and delivering solutions.</p>
+                  <br>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="resume_item resume_education">
+      <div class="title">
+           <p class="bold">Education</p>
+         </div>
+         <ul>
+          <li>
+              <div class="date">2017-2021</div> 
+              <div class="info">
+                   <p class="semi-bold">RCC Institute of Information Technology.</p> 
+                   <p>BTech in Information Technology</p>
+                  <p>• 8.80 DGPA</p>
+              </div>
+          </li>
+          <li>
+            <div class="date">2015 - 2017</div>
+            <div class="info">
+                   <p class="semi-bold">Dev Sangha National School</p> 
+                <p>CBSE- Class 12 - PCM</p>
+                <p>• 85%</p>
+              </div>
+          </li>
+          <li>
+            <div class="date">2014-2015</div>
+            <div class="info">
+                   <p class="semi-bold">Holy Child School</p> 
+                <p>ICSE- Class 10</p>
+                <p>• 91.4%</p>
+              </div>
+          </li>
+      </ul>
+    </div>
+    <div class="resume_item resume_hobby">
+      <div class="title">
+           <p class="bold">Hobby</p>
+         </div>
+       <ul>
+         <li><i class="fa fa-camera"></i></li>
+         <li><i class="fas fa-gamepad"></i></li>
+         <li><i class="fas fa-music"></i></li>
+         <li><i class="fa fa-paint-brush"></i></li>
+      </ul>
+    </div>
+  </div>
+</div>
